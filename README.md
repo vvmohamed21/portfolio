@@ -39,3 +39,11 @@ A high-end, cybernetic-themed portfolio website for a Computer Engineer & Full-S
 
 ---
 *© 2024 Muhammed Nur. Bitlis Eren University.*
+
+---
+
+**Official website:** [https://www.aboalnur.me](https://www.aboalnur.me)
+
+<p align="center">
+  <img src="https://www.aboalnur.me/me.png" alt="محمد نور - أبو النور للبرمجة والتطوير صاحب موقع AboAlnur" width="180" />
+</p>
